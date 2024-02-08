@@ -6,6 +6,8 @@
 - 💬 Possuo motivação própria e muita sede de conhecimento.
 - 😄 Apelido: Bêra
 
+<=== Experiências Profissionais anteriores ===>
+
 
 💡 Minha jornada até aqui tem sido repleta de experiências valiosas:
 
