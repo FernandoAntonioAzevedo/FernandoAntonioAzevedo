@@ -1,30 +1,12 @@
 ### Olá, primeiramente seja muito bem vindo(a) ao meu perfil!
 
-- 👜 Atualmente sou Dev Web Front End autônomo e presto serviços de suporte 24h.
-- 🔧 Sou Analista de Suporte - formação analista Infra Senior (Elaborata).
-- 🔭 Estou cursando Análise e Desenvolvimento de Sistemas (Uninter). 
-- 🏬 Me deixo a disposição para possíveis contatos profissionais.
-- 💬 Possuo motivação própria e muita sede de conhecimento.
-- 😄 Apelido: Bêra
+Me chamo Fernando Azevedo, sou desenvolvedor web autônomo. Crio Websites e landingpages responsivas, gerencio redes sociais, realizo branding completo de novas marcas e presto suporte de TI para clientes ativos 24h. 
 
-<=== Experiências Profissionais anteriores ===>
+Tenho como missão entregar soluções criativas, funcionais e acessíveis que atendam às necessidades e expectativas dos meus clientes.
 
+Minhas competências incluem Html5, Css, Bootstrap, Sass, Scss, JavaScript, UX , Mobile First, Corel Draw, GitHub, Marketing Digital e muita atenção a detalhes. Além disso, desenvolvi habilidades de suporte, organização, comunicação e liderança em minhas experiências anteriores como Analista de Suporte Pleno na Positivo Tecnologia, onde participei de projetos de melhoria de processos e atendimento aos usuários, e como organizador de eventos e viagens estudantis, onde liderei equipes em viagens nacionais e internacionais e me comunicava com públicos diversos. 
 
-💡 Minha jornada até aqui tem sido repleta de experiências valiosas:
-
-🔧 Como Analista de Suporte Pleno na Positivo Tecnologia, desenvolvi habilidades sólidas na função como suporte em uma empresa com muitos colaboradores, fiz parte de um grande time, participando de soluções de processos organizacionais, aprimorando e elevando a experiência de atendimento aos usuários, o que me ensinou a importância de ser preciso, organizado, ágil e proativo - traços essenciais para qualquer desenvolvedor.
-
-⚙️ Minha experiência militar me ensinou disciplina, trabalho em equipe e resiliência. Esses valores são diretamente transferíveis para a minha paixão em codificação, onde precisamos de determinação para superar desafios complexos e entregar soluções eficazes.
-
-🌍 Minha experiência em Turismo Estudantil e na organização de grandes Eventos e Shows me proporcionou uma visão global e a capacidade de comunicar ideias de forma clara e eficaz, o que é vital em um ambiente de desenvolvimento colaborativo.
-
-👥 Além disso, tive a honra de liderar equipes em viagens internacionais e nacionais e projetos bem-sucedidos, aprimorando minhas habilidades de gestão, organização e comunicação.
-
-📚 Estou comprometido em aprender e crescer constantemente. 
-
-👨‍💻 Agora, estou em busca de uma oportunidade empolgante como Desenvolvedor Júnior/Pleno, onde posso aplicar minha paixão pela tecnologia, meu comprometimento com a excelência e minha mentalidade de resolução de problemas. Se você está em busca de um membro da equipe dedicado e disposto a aprender, fico feliz em me conectar e conversar sobre como posso contribuir para o sucesso da sua empresa.
-
-Estou ansioso para novas conexões e desafios empolgantes!
+Estou comprometido em aprender e crescer constantemente, e busco uma oportunidade empolgante como Desenvolvedor Júnior/Pleno, onde possa aplicar minha paixão pela tecnologia e minha mentalidade de resolução de problemas.
 
 Agende uma conversa comigo via whatsApp:
 (41) 9611-5475
