@@ -1,8 +1,8 @@
 ### Olá, primeiramente seja muito bem vindo(a) ao meu perfil!
 
-Me chamo Fernando Azevedo sou de Curitiba/PR - Brasil, tenho 35 anos, casado e agora Pai! =) 
+Me chamo Fernando Azevedo sou de Curitiba/PR - Brasil, tenho 35 anos, casado e agora Pai do Vicente. <3
 
-Sou desenvolvedor de Software autônomo. Crio Websites e landingpages responsivas, gerencio redes sociais, tráfego pago e presto suporte de TI para clientes ativos 24h presencial ou remotamente. 
+Sou desenvolvedor de Software autônomo. Crio Websites e landingpages responsivas e E-Commerces a pequenos negócios aqui em minha cidade, gerencio redes sociais, tráfego pago e presto suporte de TI para clientes ativos 24h presencial ou remotamente. 
 
 Tenho como missão entregar soluções criativas, funcionais e acessíveis que atendam às necessidades e expectativas dos meus clientes, sem enrolação. Gosto de mão na massa!
 
