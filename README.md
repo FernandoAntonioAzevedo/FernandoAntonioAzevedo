@@ -2,34 +2,35 @@
 
 Me chamo Fernando Azevedo sou de Curitiba/PR - Brasil, tenho 35 anos, casado e agora Pai do Vicente. <3
 
-Sou desenvolvedor de Software autônomo. Crio Websites e landingpages responsivas e E-Commerces a pequenos negócios aqui em minha cidade, gerencio redes sociais, tráfego pago e presto suporte de TI para clientes ativos 24h presencial ou remotamente. 
+Desenvolvedor Web, especializado em Javascript e Java. Trabalho profissionalmente desde 2022, estudo diariamente para escrever códigos de qualidade com boas práticas e melhorando assim o desempenho das aplicações. Possuo bons conhecimentos em Html5, Css3, Sass e Scss e desenvolvimento de e-commerces através da plataforma do Shopify. 
 
-Tenho como missão entregar soluções criativas, funcionais e acessíveis que atendam às necessidades e expectativas dos meus clientes, sem enrolação. Gosto de mão na massa!
+Possuo boas noções de experiência de usuário e desenvolvimento mobile first utilizando frameworks como o BootStrap e ReactJs.
 
-Minhas competências e tecnologias de uso diário incluem: 
-- Html5 - semântico boas práticas em todos os projetos
-- Css3 / Scss / Sass
-- Framework Bootstrap 
-- JavaScript 
-- Corel Draw & PhotoPaint 
-- Canva & Adobe Creations
-- Marketing Digital (gestão de tráfego, Branding de novas marcas e edições de vídeo)
-- Inglês intermediário (leitura de documentação) - Dificuldades na pronúncia mas consigo desenrolar.
-- Espanhol avançado - Comunicação e Escrita (Argentina/México e Espanha) - devido a experiências fora do país.
+Tenho como missão entregar soluções criativas, funcionais e acessíveis que atendam às necessidades e expectativas, ótimo jogador de equipe, experiente em simplificar processos para melhorar a experiência do cliente e solucionar problemas do projeto de forma clara e eficiente.
 
-Novas tecnologias que venho me aperfeiçoando:
-- PhP (projetos reais de clientes)
-- React JS (projetos práticos de estudos)
-- TypeScript (projetos práticos de estudo)
-- My Sql e PostGree 
+Habilidades Técnicas:
+• Html5;
+• Css3, Scss e Sass;
+• ReactJs
+• Javascript;
+• Java;
+• Shopify, NuvemShop;
+• WordPress;
 
+Ferramentas:
+• Código do Visual Studio;
+• GitHub;
+• Eclipse;
 
+Qualidades pessoais:
+• Aprendiz rápido;
+• Organizado;
+• Bom em busca para a solução de problemas;
+• Experiência do cliente;
+• Bom para dar e receber feedbacks;
 
-Além disso, desenvolvi habilidades técnicas avançadas ao longo destes últimos anos em hardwares tanto em notebooks quanto em desktop gamers, reparo de placas, sou extremamente zeloso, boa comunicação e possuo espirito de liderança. 
-
-Estou comprometido em aprender e crescer constantemente, e busco uma oportunidade empolgante como Estagiário/Trainee/Desenvolvedor Júnior/Coordenador de Mídias Sociais, onde possa aplicar minha paixão pela tecnologia e minha mentalidade de resolução de problemas.
-
-Me deixo a disposição para uma oportunidade que exija uma pessoa que goste de aprender e se desenvolver.
-
-WhatsApp: +55 41 99611-5475
-beratechsolutions@gmail.com
+Idiomas:
+• Português (Fluente)
+• Espanhol (Avançado)
+• Inglês (Intermediário)
+• Francês (Básico)
