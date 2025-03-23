@@ -1,22 +1,6 @@
-<h2 align="center">Desenvolvedor Web em constante especialização. Estou em busca de novos desafios, trabalho profissionalmente na área através de minha Brand como PJ desde 2022, estudo diariamente para me manter atualizado e assim escrever códigos de qualidade com boas práticas. Possuo bons conhecimentos em Html5, Css3, Sass e Scss e desenvolvimento de e-commerces através do framework React e das plataformas da NuvemShop e Shopify. 
+<h2 align="center">Desenvolvedor Web em busca de novos desafios, trabalho profissionalmente na área através de minha Brand como PJ desde 2022, estudo diariamente para me manter atualizado e assim escrever códigos de qualidade com boas práticas. Possuo bons conhecimentos em Html5, Css3, Sass e Scss e desenvolvimento de e-commerces através do framework BootStrap, React e das plataformas da NuvemShop e Shopify. 
 
 Tenho boas noções de experiência de usuário e desenvolvimento mobile first. Minha missão é entregar soluções criativas, funcionais e acessíveis que atendam às necessidades e expectativas, ótimo jogador de equipe, experiente em simplificar processos para melhorar a experiência e solucionar problemas do projeto de forma clara e eficiente.
-
-Qualidades pessoais:
-• Aprendiz rápido;
-• Organizado;
-• Pontualidade;
-• Bom em busca para a solução de problemas;
-• Bom para dar e receber feedbacks;
-• Postura modelar;
-• Boa apresentação e respeito a hierarquia (herdado de experiência como militar);
-
-Idiomas:
-• Português BR/PT (Fluente) - Nativo 
-• Espanhol (Avançado) - B2
-• Inglês (Intermediário) - B1
-• Francês (Básico) - A2
-
 WhatsApp:
 +55 (41) 99941-6552</h2>
 
@@ -36,6 +20,8 @@ WhatsApp:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
   <img width="12" />
