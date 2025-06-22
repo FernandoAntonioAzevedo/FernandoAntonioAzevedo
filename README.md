@@ -1,6 +1,8 @@
-<h2 align="center">Desenvolvedor Web em busca de novos desafios, trabalho profissionalmente na área através de minha Brand como PJ desde 2022, estudo diariamente para me manter atualizado e assim escrever códigos de qualidade com boas práticas. Possuo bons conhecimentos em Html5, Css3, Sass e Scss e desenvolvimento de e-commerces através do framework BootStrap, React e das plataformas da NuvemShop e Shopify. 
+<h2 align="center">I’m a Web Developer working as a freelancer since 2022, passionate about technology and user-centered design. I create modern, responsive, and high-performance interfaces with a strong focus on usability, accessibility, and clean code.
 
-Tenho boas noções de experiência de usuário e desenvolvimento mobile first. Minha missão é entregar soluções criativas, funcionais e acessíveis que atendam às necessidades e expectativas, ótimo jogador de equipe, experiente em simplificar processos para melhorar a experiência e solucionar problemas do projeto de forma clara e eficiente.
+I have solid experience with HTML5, CSS3, JavaScript, Bootstrap 5, PHP, and React, as well as expertise in e-commerce development on Shopify and Nuvemshop platforms, managing both the design and technical implementation of online stores.
+
+I follow mobile-first principles, maintain best development practices, and continuously study to stay updated. I'm a fast learner, detail-oriented, team player, and strategic thinker with a background in digital marketing, UX, and copywriting.
 WhatsApp:
 +55 (41) 99941-6552</h2>
 
